@@ -110,7 +110,16 @@ We'll check your repository for updates. No need to create a new pull request.
 ## Milestone 2: Implementation part 2 (due 11/23)
 We're over halfway there! This week should be about fixing bugs and extending the core of your generator. Make sure by the end of this week _your generator works and is feature complete._ Any core engine features that don't make it in this week should be cut! Don't worry if you haven't managed to exactly hit your goals. We're more interested in seeing proof of your development effort than knowing your planned everything perfectly. 
 
-Put all your code in your forked repository.
+I brought the procedural rose and vine animation from Houdini into Blender and rendered it on a character bust. I tuned the generation parameters in Houdini, then built stylized shaders in Blender for the skin, roses, and vines. 
+
+For the head model I adapted it from another sketchfab model [Mel Medarda base model on Sketchfab](https://sketchfab.com/3d-models/mel-medarda-arcane-c0b622a2cc6348c68e2ef05e15ba7dbb)
+
+For the final pass, I plan to refine the hair (right now it's very rough) and texture and adjust where the roses appear on the face. As of right now I don't plan to animate the face. 
+
+#### Current result
+
+![Milestone 2 render](video/Milestone2%20Render/milestone2.gif)
+
 
 Submission: Add a new section to your README titled: Milestone #3, which should include
 - written description of progress on your project goals. If you haven't hit all your goals, what did you have to cut and why? 
