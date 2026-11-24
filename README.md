@@ -120,6 +120,7 @@ For the final pass, I plan to refine the hair (right now it's very rough) and te
 
 ![Milestone 2 render](video/Milestone2%20Render/milestone2.gif)
 
+Please note that you can access the blender file by going to the releases in github.
 
 Submission: Add a new section to your README titled: Milestone #3, which should include
 - written description of progress on your project goals. If you haven't hit all your goals, what did you have to cut and why? 
